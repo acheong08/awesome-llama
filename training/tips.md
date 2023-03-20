@@ -1,4 +1,4 @@
-# Tips for trainging LLaMA
+# Tips for training LLaMA
 
 WIP
 
