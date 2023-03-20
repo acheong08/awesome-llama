@@ -15,5 +15,8 @@ magnet:?xt=urn:btih:36945b5958b907b3ab69e963ba0de1abdf48c16c&dn=LLaMA-HFv2-4bit&
 
 ## Training
 - [Alpaca Lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
+- [Eric Lewis's misc](https://github.com/acheong08/awesome-llama/blob/main/link_groups/ericlewis.md) - Miscellaneous data and models from [Eric Lewis](https://github.com/ericlewis)
+- [Other notes](https://github.com/acheong08/awesome-llama/blob/main/training/tips.md) - My own notes on training (WIP)
 
 ## Papers
+- https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
